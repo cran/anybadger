@@ -1,0 +1,15 @@
+931c49aa1cfe04495356667f3ddf1052 *DESCRIPTION
+2cc1a6d080de267dd969b33e5938331e *LICENSE
+7c387f11eda2e13aca7d89e86d16c07e *NAMESPACE
+14d2b0fd81a886b41e9ca3ebd0271491 *R/badge.R
+65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
+dc5336ab1d3f8162f453d2d6f5f6eb26 *R/utils.R
+3bce8eb52b4def9df68b916e252deba3 *README.md
+d64f2376f1136885efd3b20c04d3d0dc *inst/config.yml
+92b94fc98cb6282b204e335ede9b3ba7 *inst/svg_template
+723c7a198dda35c5c9a9f80e5f46e15f *man/Badge.Rd
+40890ab2253a5714dc43a8b6ee0a31c4 *man/create_badge.Rd
+4894ca10756199e25f914bfd34f517b0 *man/pipe.Rd
+9d1cdeafbb4b14c473bfc4aee94e943c *tests/testthat.R
+15c158fc623795a79798433e2003efbf *tests/testthat/test-badge.R
+68c53acabe86e2f2edebf4cd9ce51a1c *tests/testthat/test-utils.R

@@ -1,0 +1,39 @@
+default:
+  default_template_values:
+    badge_width: 71
+    font_name: 'DejaVu Sans,Verdana,Geneva,sans-serif'
+    font_size: 11
+    label: 'label'
+    value: 'value'
+    label_anchor: 20.5
+    label_anchor_shadow: 21.5
+    value_anchor: 56.0
+    value_anchor_shadow: 57.0
+    color: '#e05d44'
+    label_text_color: '#fff'
+    value_text_color: '#fff'
+    color_split_x: 41
+    value_width: 30
+    mask_id: 'anybadge1'
+  colors:
+    white: '#FFFFFF'
+    silver: '#C0C0C0'
+    gray: '#808080'
+    black: '#000000'
+    red: '#e05d44'
+    brightred: '#FF0000'
+    maroon: '#800000'
+    olive: '#808000'
+    lime: '#00FF00'
+    brightyellow: '#FFFF00'
+    yellow: '#dfb317'
+    green: '#4c1'
+    yellowgreen: '#a4a61d'
+    aqua: '#00FFFF'
+    teal: '#008080'
+    blue: '#0000FF'
+    navy: '#000080'
+    fuchsia: '#FF00FF'
+    purple: '#800080'
+    orange: '#fe7d37'
+    lightgrey: '#9f9f9f'
